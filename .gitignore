@@ -6,4 +6,9 @@ __pycache__/
 .env
 
 # keep raw data local if too large
-# data/raw/
+# data/raw/data/raw/*.csv
+data/raw/*.zip
+data/raw/*.parquet
+data/raw/*.csv
+data/raw/*.zip
+data/raw/*.parquet
